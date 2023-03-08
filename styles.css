@@ -2,3 +2,15 @@
     margin: 0;
     padding: 0;
 }
+
+body{
+    background-color: rgb(53, 6, 97);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container{
+    color: white;
+    top: 50%;
+    left: 50%
+}
